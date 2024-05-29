@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- Question 1 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If n cells each of emf E are connected in parallel the emf of the combination is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>E/n</text>
+    </answer>
+    <answer fraction="0">
+      <text>n/E</text>
+    </answer>
+    <answer fraction="0">
+      <text>n×nE</text>
+    </answer>
+    <answer fraction="100">
+      <text>E</text>
+    </answer>
+    <answer fraction="0">
+      <text>n/E</text>
+    </answer>
+  </question>
+
+  <!-- Question 2 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A boat having a length of 3 m and breadth 2 m is floating on a lake. The boat sinks by one cm when a material is put on it. The mass of material is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>30kg</text>
+    </answer>
+    <answer fraction="0">
+      <text>600kg</text>
+    </answer>
+    <answer fraction="100">
+      <text>60kg</text>
+    </answer>
+    <answer fraction="0">
+      <text>540kg</text>
+    </answer>
+    <answer fraction="0">
+      <text>120kg</text>
+    </answer>
+  </question>
+
+  <!-- Question 3 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If two soap bubbles of radii r1 and r2 (>r1) are in contact, the radius of their common interface is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>r1+r2</text>
+    </answer>
+    <answer fraction="0">
+      <text>(r1+r2)^2</text>
+    </answer>
+    <answer fraction="100">
+      <text>r1r2/(r2-r1)</text>
+    </answer>
+    <answer fraction="0">
+      <text>sqrt(r1r2)</text>
+    </answer>
+    <answer fraction="0">
+      <text>(r1-r2)^2</text>
+    </answer>
+  </question>
+
+  <!-- Question 4 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A body weight 4N in air and 3N when immersed in a liquid. The buoyant force on the body is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>1N</text>
+    </answer>
+    <answer fraction="0">
+      <text>2N</text>
+    </answer>
+    <answer fraction="0">
+      <text>3N</text>
+    </answer>
+    <answer fraction="100">
+      <text>4N</text>
+    </answer>
+    <answer fraction="0">
+      <text>5N</text>
+    </answer>
+  </question>
+
+  <!-- Question 5 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What will be the phase difference between virtual voltage and virtual current when the current in the circuit is wattless?]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text>90 degree</text>
+    </answer>
+    <answer fraction="0">
+      <text>45 degree</text>
+    </answer>
+    <answer fraction="0">
+      <text>180 degree</text>
+    </answer>
+    <answer fraction="0">
+      <text>60 degree</text>
+    </answer>
+    <answer fraction="0">
+      <text>270 degree</text>
+    </answer>
+  </question>
+
+  <!-- Question 6 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The expression for the distance travelled during the nth second is:]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>S=un+1/2a n^2</text>
+    </answer>
+    <answer fraction="0">
+      <text>S=u+a/2 n^2</text>
+    </answer>
+    <answer fraction="0">
+      <text>S=u+a/2(2n+1)</text>
+    </answer>
+    <answer fraction="100">
+      <text>S=u+a/2(2n-1)</text>
+    </answer>
+    <answer fraction="0">
+      <text>none of these</text>
+    </answer>
+  </question>
+
+  <!-- Question 7 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If the error in the measurement of radius of a sphere is 1% the error in the measurement of volume is:]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>1%</text>
+    </answer>
+    <answer fraction="100">
+      <text>3%</text>
+    </answer>
+    <answer fraction="0">
+      <text>6%</text>
+    </answer>
+    <answer fraction="0">
+      <text>9/4</text>
+    </answer>
+    <answer fraction="0">
+      <text>5/4</text>
+    </answer>
+  </question>
+
+  <!-- Question 8 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[An electron and a Proton are moving in the same direction with the same kinetic energy. The ratio of the de Broglie wavelength associated with these particles.]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>me/mp</text>
+    </answer>
+    <answer fraction="0">
+      <text>mp/me</text>
+    </answer>
+    <answer fraction="0">
+      <text>me×mp</text>
+    </answer>
+    <answer fraction="0">
+      <text>sqrt(me/mp)</text>
+    </answer>
+    <answer fraction="100">
+      <text>sqrt(mp/me)</text>
+    </answer>
+  </question>
+
+  <!-- Question 9 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The Fahrenheit and Kelvin scales in temperature will give same reading at]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>-40</text>
+    </answer>
+    <answer fraction="0">
+      <text>313</text>
+    </answer>
+    <answer fraction="100">
+      <text>574.25</text>
+    </answer>
+    <answer fraction="0">
+      <text>732.75</text>
+    </answer>
+    <answer fraction="0">
+      <text>273</text>
+    </answer>
+  </question>
+
+  <!-- Question 10 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Work function of a metal is 4ev. The wavelength of incident radiation required just to emit the electrons from the surface is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>2700 Angstrom</text>
+    </answer>
+    <answer fraction="0">
+      <text>1700 Angstrom</text>
+    </answer>
+    <answer fraction="0">
+      <text>5900 Angstrom</text>
+    </answer>
+    <answer fraction="100">
+      <text>3100 Angstrom</text>
+    </answer>
+    <answer fraction="0">
+      <text>2500 Angstrom</text>
+    </answer>
+  </question>
+
+  <!-- Question 11 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If the radius of earths orbit is made 1/9th then the duration of an year will become]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>27times</text>
+    </answer>
+    <answer fraction="100">
+      <text>1/27times</text>
+    </answer>
+    <answer fraction="0">
+      <text>3 times</text>
+    </answer>
+    <answer fraction="0">
+      <text>1/3 times</text>
+    </answer>
+    <answer fraction="0">
+      <text>1/4 times</text>
+    </answer>
+  </question>
+
+  <!-- Question 12 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When 2, 4, 6V cells are connected in series, the equivalent emf is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>4</text>
+    </answer>
+    <answer fraction="0">
+      <text>6</text>
+    </answer>
+    <answer fraction="100">
+      <text>12</text>
+    </answer>
+    <answer fraction="0">
+      <text>2</text>
+    </answer>
+    <answer fraction="0">
+      <text>10</text>
+    </answer>
+  </question>
+
+  <!-- Question 13 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Time period of a satellite of earth is 5 hours. If the separation between the earth and the satellite is increased to four times the previous value, the new time period will become]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>20 hr</text>
+    </answer>
+    <answer fraction="100">
+      <text>40 hr</text>
+    </answer>
+    <answer fraction="0">
+      <text>10 hr</text>
+    </answer>
+    <answer fraction="0">
+      <text>80 hr</text>
+    </answer>
+    <answer fraction="0">
+      <text>60 hr</text>
+    </answer>
+  </question>
+
+  <!-- Question 14 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[In a stationary wave, all the particles between two nodes vibrate]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>in opposite phase</text>
+    </answer>
+    <answer fraction="0">
+      <text>with different amplitude</text>
+    </answer>
+    <answer fraction="100">
+      <text>in same phase</text>
+    </answer>
+    <answer fraction="0">
+      <text>with different frequency</text>
+    </answer>
+    <answer fraction="0">
+      <text>none of these</text>
+    </answer>
+  </question>
+
+  <!-- Question 15 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Energy of a satellite of mass M revolving in an orbit of radius R is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>GM/R^2</text>
+    </answer>
+    <answer fraction="100">
+      <text>-GM/2R</text>
+    </answer>
+    <answer fraction="0">
+      <text>2GM/R</text>
+    </answer>
+    <answer fraction="0">
+      <text>GM/R</text>
+    </answer>
+    <answer fraction="0">
+      <text>GM/4R</text>
+    </answer>
+  </question>
+
+  <!-- Question 16 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The quality of a musical note depends on]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>frequency</text>
+    </answer>
+    <answer fraction="0">
+      <text>amplitude</text>
+    </answer>
+    <answer fraction="100">
+      <text>harmonics</text>
+    </answer>
+    <answer fraction="0">
+      <text>velocity</text>
+    </answer>
+    <answer fraction="0">
+      <text>none of these</text>
+    </answer>
+  </question>
+
+  <!-- Question 17 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[An iron rod of length l and mass M is heated from 0 degree C to t degree C. The longitudinal expansion coefficient of the rod is alpha. The work done by the rod against the atmospheric pressure P is]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text>alpha P l^2 t</text>
+    </answer>
+    <answer fraction="0">
+      <text>1/2 alpha P l^2 t</text>
+    </answer>
+    <answer fraction="0">
+      <text>2 alpha P l^2 t</text>
+    </answer>
+    <answer fraction="0">
+      <text>1/3 alpha P l^2 t</text>
+    </answer>
+    <answer fraction="0">
+      <text>alpha P l^2 t^2</text>
+    </answer>
+  </question>
+
+  <!-- Question 18 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A particle executing simple harmonic motion crosses points A and B with the same velocity. Having time t1 and t2 in passing from A to B and B to A. The time period of the motion is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>t1+t2</text>
+    </answer>
+    <answer fraction="0">
+      <text>2(t1+t2)</text>
+    </answer>
+    <answer fraction="0">
+      <text>4(t1+t2)</text>
+    </answer>
+    <answer fraction="100">
+      <text>2(t1+t2)</text>
+    </answer>
+    <answer fraction="0">
+      <text>2(t1+t2)^2</text>
+    </answer>
+  </question>
+
+  <!-- Question 19 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When ultraviolet light is incident on a surface, no photoelectrons are emitted while when green light falls on the surface photo electrons are emitted. Which of the following light can produce photoelectrons]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>red</text>
+    </answer>
+    <answer fraction="0">
+      <text>blue</text>
+    </answer>
+    <answer fraction="0">
+      <text>yellow</text>
+    </answer>
+    <answer fraction="100">
+      <text>infrared</text>
+    </answer>
+    <answer fraction="0">
+      <text>none of these</text>
+    </answer>
+  </question>
+
+  <!-- Question 20 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If a body looses half of its velocity on penetrating 3cm in a wooden block, then how much will it penetrate more before coming to rest?]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>2cm</text>
+    </answer>
+    <answer fraction="100">
+      <text>3cm</text>
+    </answer>
+    <answer fraction="0">
+      <text>1.5cm</text>
+    </answer>
+    <answer fraction="0">
+      <text>1cm</text>
+    </answer>
+    <answer fraction="0">
+      <text>4.5cm</text>
+    </answer>
+  </question>
+
+  <!-- Question 21 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Two masses 8kg and 12kg are at a distance 10cm apart. The distance of the centre of mass from the 8kg mass is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>8cm</text>
+    </answer>
+    <answer fraction="100">
+      <text>6cm</text>
+    </answer>
+    <answer fraction="0">
+      <text>5cm</text>
+    </answer>
+    <answer fraction="0">
+      <text>7cm</text>
+    </answer>
+    <answer fraction="0">
+      <text>4cm</text>
+    </answer>
+  </question>
+
+  <!-- Question 22 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Velocity of sound in air is 330m/s. The distance between a node and the adjoining antinode of a stationary wave is 50cm. The frequency of the stationary wave is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>2Hz</text>
+    </answer>
+    <answer fraction="0">
+      <text>4Hz</text>
+    </answer>
+    <answer fraction="0">
+      <text>2.2Hz</text>
+    </answer>
+    <answer fraction="100">
+      <text>3.3Hz</text>
+    </answer>
+    <answer fraction="0">
+      <text>1.65Hz</text>
+    </answer>
+  </question>
+
+  <!-- Question 23 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A tube light emits white light. What is the nature of the emitted radiation?]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>Radiation emitted is not in phase and have same wavelength</text>
+    </answer>
+    <answer fraction="0">
+      <text>Radiation emitted is in phase and have different wavelength</text>
+    </answer>
+    <answer fraction="0">
+      <text>Radiation emitted is in phase and have same wavelength</text>
+    </answer>
+    <answer fraction="100">
+      <text>Radiation emitted is not in phase and have different wavelength</text>
+    </answer>
+    <answer fraction="0">
+      <text>Radiation emitted is in wavelength</text>
+    </answer>
+  </question>
+
+  <!-- Question 24 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When an object is placed between two plane mirrors which are mutually perpendicular to each other, the number of images formed is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>3</text>
+    </answer>
+    <answer fraction="0">
+      <text>5</text>
+    </answer>
+    <answer fraction="0">
+      <text>6</text>
+    </answer>
+    <answer fraction="100">
+      <text>4</text>
+    </answer>
+    <answer fraction="0">
+      <text>8</text>
+    </answer>
+  </question>
+
+  <!-- Question 25 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When a person sitting on a swing stands up, the time period of swing will]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>increase</text>
+    </answer>
+    <answer fraction="0">
+      <text>become zero</text>
+    </answer>
+    <answer fraction="100">
+      <text>decrease</text>
+    </answer>
+    <answer fraction="0">
+      <text>remain unchanged</text>
+    </answer>
+    <answer fraction="0">
+      <text>none of these</text>
+    </answer>
+  </question>
+
+  <!-- Question 26 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The amplitude of a wave disturbance propagating in the positive x direction is given by y(x,t)=1/1+x^2 at t=0. The shape of the wave disturbance does not change during propagation. The wave speed is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>1</text>
+    </answer>
+    <answer fraction="0">
+      <text>2</text>
+    </answer>
+    <answer fraction="100">
+      <text>0</text>
+    </answer>
+    <answer fraction="0">
+      <text>-1</text>
+    </answer>
+    <answer fraction="0">
+      <text>none of these</text>
+    </answer>
+  </question>
+
+  <!-- Question 27 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When a sound wave of frequency 300 Hz passes through a medium, the maximum displacement of a particle of the medium is 0.1 cm. The maximum velocity of the particle is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>0.3cm/s</text>
+    </answer>
+    <answer fraction="0">
+      <text>3cm/s</text>
+    </answer>
+    <answer fraction="100">
+      <text>30cm/s</text>
+    </answer>
+    <answer fraction="0">
+      <text>300cm/s</text>
+    </answer>
+    <answer fraction="0">
+      <text>0.3m/s</text>
+    </answer>
+  </question>
+
+  <!-- Question 28 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A Carnot engine working between 200k and 500k has a work output of 800J per cycle. The amount of heat energy supplied to the engine from the source per cycle is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>1200J</text>
+    </answer>
+    <answer fraction="0">
+      <text>2000J</text>
+    </answer>
+    <answer fraction="100">
+      <text>2500J</text>
+    </answer>
+    <answer fraction="0">
+      <text>3000J</text>
+    </answer>
+    <answer fraction="0">
+      <text>3500J</text>
+    </answer>
+  </question>
+
+  <!-- Question 29 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[At room temperature, copper has free electron density of 8.4 x 10^28 per meter cube. The electron drift velocity in a copper conductor of cross sectional area of 10^-6 meter square and carrying a current of 5.4A, will be]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>4ms^-1</text>
+    </answer>
+    <answer fraction="100">
+      <text>4 x 10^-4 ms^-1</text>
+    </answer>
+    <answer fraction="0">
+      <text>4 x 10^-2 ms^-1</text>
+    </answer>
+    <answer fraction="0">
+      <text>4 x 10^-8 ms^-1</text>
+    </answer>
+    <answer fraction="0">
+      <text>4 x 10^3 ms^-1</text>
+    </answer>
+  </question>
+
+  <!-- Question 30 -->
+  <question type="multichoice">
+    <name>
+      <text>Question 30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A person uses spectacles of power +2D. The focal length of the spectacles is]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>-0.5m</text>
+    </answer>
+    <answer fraction="0">
+      <text>-2m</text>
+    </answer>
+    <answer fraction="100">
+      <text>0.5m</text>
+    </answer>
+    <answer fraction="0">
+      <text>2m</text>
+    </answer>
+    <answer fraction="0">
+      <text>-4m</text>
+    </answer>
+  </question>
+</quiz>

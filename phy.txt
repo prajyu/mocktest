@@ -1,0 +1,428 @@
+1, If n cells each of emf E are connected in parallel, the emf of the combination is
+A. E/n
+B. n/E
+C. n×nE
+D. E 
+E. n/E
+
+2, A boat having a length of 3 m and breadth 2 m is floating on a lake. The boat Sinks by one cm when a material is put on it. The mass of material is 
+A. 30kg
+B. 600kg
+C. 60kg
+D. 540kg
+E. 120kg
+
+3, if two so bubbles of radii r1 and r2 (>r1) are in contact, the radius of their common interface is
+A. r1+r2
+B. (r1+r2)^2
+C. r1r2/(r2-r1)
+D. sq.root (r1r2)
+E. (r1-r2)^2
+
+4, A body weight 4N in air and 3N when immersed in a liquid. The buoyant force on the body is 
+A.1N
+B. 2N
+C. 3N
+D. 4N
+E. 5N
+
+5,What will be the phase difference between virtual voltage and virtual current, when the current in the circuit is wattless?
+
+A. 90 degree 
+B. 45 degree
+C. 180 degree
+D. 60 degree
+E. 270 degree
+
+6, The expression for the distance travelled during the nth second is:
+
+A. S=un+1/2a n^2
+B. S=u+a/2 n^2
+C. S=u+a/2(2n+1)
+D. S=u+a/2(2n-1)
+E. none of these 
+
+7, If the error in the measurement of radius of a sphere is 1%,  the error in the measurement of volume is:
+
+A. 1%
+B. 3%
+C. 6%
+D. 9/4
+E. 5/4
+
+8, An electron and a Proton are moving in the same direction with the same kinetic energy. The ratio of the de Broglie wavelength associated with these particles.
+
+A. me/mp
+B. mp/me
+C. me×mp
+D. sq.root (me/mp)
+E. sq.root (mp/me)
+
+9, The Fahrenheit and Kelvin scales in temperature will give same reading at 
+
+A. -40
+B. 313
+C. 574.25
+D. 732.75
+E. 273
+
+10, Work function of a metal is 4ev. The wavelength of incident radiation required just to emit the electrons from the surface is
+A. 2700 Angstrom
+B. 1700 Angstrom
+C. 5900 Angstrom
+D. 3100 Angstrom
+E. 2500 Angstrom
+
+11, If the radius of earths orbit is made 1/9th, then the duration of an year will become 
+A. 27times
+B. 21times
+C. 1/27times
+D. 16times
+E. 1/16times
+
+12, A Square Plate of side l has mass m. What is its moment of inertia about one of its diagonals?
+A. (ml×l)/6
+B. (ml×l)/12
+C. (ml×l)/3
+D. (ml×l)/4
+E. (ml×l)/5
+
+13, The magnitude of the electric field intensity at the distance x from a charge q is E. An identical charge is placed at a distance 2x from it. Then the magnitude of the force is experiences is
+
+A. qE
+B. qE/2
+C. qE/4
+D. 2qE
+E. qE/3
+
+14, If a stretched wire is vibrating in the second overtone, then the number of nodes and and antinodes between the ends of the string are respectively 
+
+A. 2&2
+B. 1&2
+C. 4&3
+D. 2&3
+E. 3&4
+
+15, A resistor has a colour code of green, blue, brown and silver. What is its resistance?
+
+A. 56ohm ±5%
+B. 560ohm ±10% 
+C. 560ohm ±5%
+D. 5600ohm ±10%
+E. 56000ohm ±10%
+
+Q16. What is the dimensional formula of torque and energy
+
+(a) [ML-3T-2] and [MLT-2]
+
+(b) [ML2T-2] and [MLT-2]
+
+(c) [ML2T-2] and [ML2T2]
+
+(d) [MLT2] and [ML2T2]
+
+Q17. Let there be two bodies, each weighing 2 kg and the other 5 kg. Allow the same force to be applied to these bodies as they are at rest. Determine the ratio of the time each body must travel before reaching the final velocity.
+
+(a) 5:3
+
+(b) 2:5
+
+(c) 4:25
+
+(d) 25:4
+
+Q18. A body's natural ability to resist changes in its state of motion is referred to as ___.
+
+(a) Momentum
+
+(b)Acceleration
+
+(c)Force
+
+(d)Inertia
+
+Q19.Two projectiles P and Q thrown with velocities v and v\2 respectively have the same range. If Q is thrown at an angle of 15° to the horizontal, P
+ must be thrown at an angle of
+
+
+(a) 30°
+(b) 1/2sin-1(?)
+(c) 1/4sin-1(1/2)
+(d) 60°
+
+Q20: The height at which the acceleration due to gravity becomes g/9 (where g = the acceleration due to gravity on the surface of the earth) in terms of R, the radius of the earth, is
+
+(a) R/2
+
+(b) R/3
+
+(c) 2R
+
+(d) 3R
+
+Q21. A 4 kg object is lifted vertically with a force of 50 N. If the object is lifted 5 meters, how much work is done?
+
+200 J
+250 J
+300 J
+400 J
+
+Q22. What happens to the modulus of elasticity if the temperature increases?
+
+(a) Remains constant
+(b) Increases
+(c) Decreases
+(d) Becomes zero
+
+Q23. Calculate the de Broglie wavelength of an electron moving with a velocity of 106 m/s. 
+
+(a) 7.28 x 10^-10
+
+(b) 2.35 x 10^-7
+
+(c) 0.728 x 10^-7
+
+(d) 6.33 x 10^-2
+
+Q24 The magnetic dipole moment of a magnetic dipole is given by the formula ____.
+
+M = m × 2I
+
+M = m + 2I
+
+M = m - 2I
+
+M = m / 2I
+
+Q25 A car is moving with an initial speed of 5 m/s. A constant braking force is applied and the car is brought to rest in a distance of 10 m. What is the average speed of the car during the deceleration process?
+
+a) 1m/s
+
+b) 2.5m/s
+
+c) 4m/s
+
+d) 5m/s
+
+Q26 Two thin convex lenses L1 and L2,have focal lengths 4 cm and 10 cm, respectively. They are separated by a distance of x cm as shown in the figure. A point source S is placed on the principal axis at a distance 12 cm to the left of L1. If the image of S is formed at infinity, the value of x is:
+
+a) 6
+
+b) 16
+
+c) 14
+
+d) 24
+
+Q27 A current carrying long solenoid is formed by winding 200 turns per cm. If the number of turns per cm is increased to 201 keeping the current constant, then the magnetic field inside the solenoid will change by
+
+a) 0.2%
+
+b) 0.40%
+
+c) 0.50%
+
+d) 1%
+
+Q28 A series LCR circuit consists of a variable capacitor connected to an inductor of inductance 50 mH,resistor of resistance 100 O and an AC source of angular frequency 500 rad/s. The value of capacitance so that maximum current may be drawn into the circuit is:
+
+ a)60 µF
+
+ b)50 µF
+
+ c)100 µF
+
+ d)80 µF
+
+Q29: Consider telecommunication through optical fibres. Which of the following statements is not true?
+
+(a) Optical fibres can be of graded refractive index
+
+(b) Optical fibres are subject to electromagnetic interference from outside
+
+(c) Optical fibres have extremely low transmission loss
+
+(d) Optical fibres may have a homogeneous core with a suitable cladding
+
+Q30 If the distance traveled by a particle in time t is represented by x = 2 cos at - sin (2a - 1) t(a ? 1) and if the motion is simple harmonic motion then a is
+
+a) ?
+
+b) 1/4
+
+c) 1/2
+
+d) v3 + 1
+
+31. A solid sphere of radius r is revolving about one of its diameters with an angular velocity . If it suddenly expands uniformly so that its radius increases to n times its original value, then its angular velocity becomes
+
+(A) n^2*w
+
+(B) w/n^2
+
+(?) nw
+
+(D ) w/n
+
+(E) 2nw
+
+32. If a ring rolls down from top to bottom of an inclined plane, it takes time t1. If it slides, it takes time t2. Then the ratio (t2^ 2)/(t1^ 2) is
+
+(A) 1/3
+
+(B ) 2/3
+
+(C)  1/4
+
+(D) 1/2
+
+(E) 2/5
+
+33. If the distance between sun and earth is d, then the angular momentum of earth around the sun is proportional to
+
+(A) vd
+
+(B) d ^ 2
+
+(C) d ^ (1/3)
+
+(D) d
+
+(E) d ^ (3/2)
+
+34. Two identical objects each of mass 50 kg are kept at a distance of separation of 50 cm apart on a horizontal table. The net gravitational force at the mid-point of the line joining their centres is
+
+(A) zero
+
+(B) 6.6733×10^-9 N
+
+(C) 13.346×10 ^-9 N
+
+(D) 3.336×10 ^-9  N
+
+(E) 6.673×10^6 N
+
+35. The ratio of the weight of a body at a height of R/10 from the surface of the earth to that at a depth binomial(R,10) is (R is radius of earth)
+
+(A) 4:5
+
+(B) 1:1
+
+(C) 9:8
+
+(D) 8:9
+
+36. The electric flux (in SI units) through any face of a cube due to a positive charge Q situated at the centre of a cube is
+
+(A) Q/(4pi*epsilon0)
+
+(B) 4pi*epsilon0*Q
+
+(C) Q/(6epsilon0)
+
+(D) Q/(6pi*epsilon0)
+
+(?) 6pi*epsilon0*Q
+
+37. A capacitance of a parallel plate air capacitor is 10µF. Dielectric constant of the medium to be introduced in between its plates to double its capacitance is
+
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 2.5
+
+(E) 1.5
+
+38. The electric potential V at any point (x, y, z) in space is given by V = 4x² volt, where x, y, z are all in metre. The electric field at that point (Im, 0, 2m) in Vm is
+
+(A) 16 along the positive x axis
+
+(B) 16 along the negative x axis
+
+(C) 4 along the positive x axis
+
+(D) 8 along the negative x axis
+
+
+39. The work done in moving a point charge of 10µC through a distance of 3 cm along the equatorial axis of an electric dipole is
+
+(A) 10 x 10 ^ - 6 J
+
+(B) 0
+
+(C) 20 * 10 ^ - 6 J
+
+(D) 5 * 10 ^ - 6 J
+
+40. If a monoatomic gas is compressed adiabatically to (1/27)th of its initial volume, then its pressure becomes
+
+(A) 27 times
+
+(B) 125 times
+
+(C) 243 times
+
+(D) 81 times 
+
+(E) 64 times
+
+41. The values of Cp and Cv, for a diatomic gas are respectively (R = gas constant)
+
+(A) 7/2 R, 5/2 R
+
+(B) 3/2 R, 5/2 R
+
+(C) 3R, 4R
+
+(D) 5/2 R, 3/2 R
+
+
+42. Three moles of an ideal gas are in a rigid cubical box with sides of length 0.170 m. The ratio of the forces that the gas exerts on each of the six sides of the box when the gas temperature is 27°C and 127°C is
+
+(A)  6:1
+
+(B)  1:2
+
+(C) 3:1
+
+(D) 3:4
+
+(E) 1:3
+
+
+43. The average kinetic energy of a monoatomic gas molecule kept at temperature 27 deg * C is
+
+(A) 5.85 * 10 ^ - 21 J
+
+(B) 4.12 * 10 ^ - 21 J
+
+(C) 3.75 * 10 ^ - 21 J
+
+(D) 2.85 * 10 ^ - 21 J
+
+(E) 7.55 * 10 ^ - 21 J
+
+44. A particle is moved in a semi-circular path of radius R. Then
+
+(A) its average velocity is zero
+
+(B) its average acceleration is zero
+
+(C) its magnitude of displacement is 2R
+
+(D) its average velocity and average speed are equal
+
+(E) its distance travelled is equal to displacement
+
+45. Two projectiles P and Q thrown with velocities v and v/2 respectively have the same range. If Q is thrown at an angle of 15 deg to the horizontal, P must be thrown at an angle of
+
+(A) 45°
+
+(B) 1/2 sin^-1(1/8)
+
+(C) 1/4 sin^-1(1/2)
+
+(D) 60°

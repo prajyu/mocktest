@@ -1,0 +1,353 @@
+1
+
+
+If $\vec{u}=\hat{i}-3 \hat{j}+2 \hat{k}$ and $\vec{v}=2 \hat{i}+4 \hat{j}-5 \hat{k}$, then $|\vec{u} \times \vec{v}|^{2}+|\vec{u} \cdot \vec{v}|^{2}=$
+(A) 640
+(B) 630
+(C) 690
+(D) 740
+(E) 730
+
+2
+
+If $\vec{a}=\hat{i}+\hat{j}-\hat{k}, \vec{b}=2 \hat{i}+3 \hat{j}+\hat{k}$ and $\theta$ is the angle between them, then $\tan \theta=$
+(A) $\frac{\sqrt{38}}{4}$
+(B) $\frac{\sqrt{26}}{4}$
+(C) $\frac{\sqrt{26}}{5}$
+(D) $\frac{\sqrt{26}}{6}$
+(E) $\frac{\sqrt{38}}{6}$
+
+3
+
+The values of $\alpha$ so that $|\alpha \hat{i}+(\alpha+1) \hat{j}+2 \hat{k}|=3$, are
+(A) $2,-4$
+(B) 1,2
+(C) $-1,2$
+(D) $-2,4$
+(E) $1,-2$
+
+4
+
+If $\vec{a}=2 \hat{i}+2 \hat{j}+3 \hat{k}$ and $\vec{b}=2 \hat{i}-\hat{j}+\hat{k}$, then the value of $(\vec{a}+\vec{b}) \cdot(\vec{a}-\vec{b})$ is equal to
+(A) 8
+(B) 7
+(C) 9
+(D) 11
+(E) 13
+
+5
+
+The value of $\int_{e}^{e^{2}} \frac{1}{x} d x$ is equal to
+(A) $e$
+(B) 1
+(C) $e^{2}$
+(D) $e^{2}-e$
+(E) 0
+
+6
+
+The value of $\int_{-10}^{10}\left(0.0002 x^{3}-0.3 x+20\right) d x$ is equal to
+(A) 423
+(B) 400
+(C) 378
+(D) 410
+(E) 390
+
+7
+
+The area enclosed by the curve $x=3 \cos \theta, y=2 \sin \theta, 0 \leq \theta \leq \pi$, is (in square units)
+(A) $9 \pi$
+(B) $6 \pi$
+(C) $4 \pi$
+(D) $3 \pi$
+(E) $2 \pi$
+
+8
+
+If $x^{3}+2 x y+\frac{1}{3} y^{3}=\frac{11}{3}$, then $\frac{d y}{d x}$ at $(2,-1)$ is
+(A) -2
+(B) 2
+(C) 5
+(D) -5
+(E) -10
+
+9
+
+The equation of the tangent to $y=-2 x^{2}+3$ at $x=1$ is
+(A) $y=-4 x$
+(B) $y=-4 x+5$
+(C) $y=4 x$
+(D) $y=4 x+5$
+(E) $y=-4 x+3$
+
+10
+
+The integrating factor of the differential equation $3 x y^{\prime}-y=1+\log x, x>0$ is
+(A) $\log x$
+(B) $\frac{1}{x}$
+(C) $x^{-1 / 3}$
+(D) $\frac{1}{x^{3}}$
+(E) $x^{1 / 3}$
+
+11
+
+If $\left(\begin{array}{ll}e & f \\ g & h\end{array}\right)$ is the inverse of the matrix $\left(\begin{array}{ll}a & b \\ c & d\end{array}\right)$ where $a d-b c=1$, then $g$ equals
+(A) $c$
+(B) $-c$
+(C) $b$
+(D) $-b$
+(E) $d$
+
+12
+
+If $f: \mathrm{R} \rightarrow \mathrm{R}$ is a function defined by $f(x)=x^{2}$, then which of the following is true?
+
+(A) $f$ is 1-1 but not onto
+
+(B) $f$ is onto but not $1-1$
+
+(C) $f$ is neither 1-1 nor onto
+
+(D) $f$ is both 1-1 and onto
+
+(E) $f^{-1}: \mathrm{R} \rightarrow \mathrm{R}$ exists
+
+13
+
+Let $\mathrm{A}=\left(\begin{array}{ll}\alpha & 0 \\ 1 & 1\end{array}\right)$ and $\mathrm{B}=\left(\begin{array}{ll}1 & 0 \\ 5 & 1\end{array}\right)$ be two matrices where $\alpha$ is a real number.
+
+Then
+(A) $\mathrm{A}^{2}=\mathrm{B}$ for some $\alpha$
+(B) $\mathrm{A}^{2} \neq \mathrm{B}$ for any $\alpha$
+(C) $\mathrm{A}^{2}=-\mathrm{B}$ for some $\alpha$
+(D) $\left|\mathrm{A}^{2}\right| \neq|B|$ for any $\alpha$
+(E) $A=-B$ for some $\alpha$
+
+14
+
+If the lines $\frac{x+3}{-3}=\frac{y-1}{k}=\frac{z-5}{5}$ and $\frac{x+1}{-1}=\frac{y-2}{2}=\frac{z-5}{5}$ are coplanar, then the value of $k$ is
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+
+15
+
+If $\frac{d y}{d x}=\frac{2}{x+y}$ and $y(1)=0$, then $x+y+2$ equals
+(A) $3 e^{\left(\frac{y}{2}\right)}$
+(B) $2 e^{\left(\frac{y}{2}\right)}$
+(C) $e^{\left(\frac{y}{2}\right)}$
+(D) 0
+(E) $5 e^{\left(\frac{y}{2}\right)}$
+
+16
+
+The points with position vector $60 \hat{i}+3 \hat{j}, 40 \hat{i}-8 \hat{j}$ and $a \hat{i}-52 \hat{j}$ are collinear if
+(A) $a=-10$
+(B) $a=40$
+(C) $a=20$
+(D) $a=10$
+(E) $a=-40$
+
+17
+
+The area enclosed within the curve $|x|+|y|=1$ is
+(A) 1
+(B) $\sqrt{2}$
+(C) $\frac{3}{2}$
+(D) $2 \sqrt{2}$
+(E) 2
+
+18
+
+The value of $\tan \left[\sin ^{-1} \frac{5}{13}+\cot ^{-1} \frac{4}{3}\right]$ is
+(A) $26 / 11$
+(B) $56 / 33$
+(C) $63 / 41$
+(D) $65 / 43$
+(E) $32 / 13$
+
+19
+
+If $\sqrt{\frac{y}{x}}+\sqrt{\frac{x}{y}}=1$, then $\frac{d y}{d x}$ equals
+(A) $\sqrt{\frac{y}{x}}$
+(B) $\sqrt{\frac{x}{y}}$
+(C) $\frac{y}{x}$
+(D) $\frac{x}{y}$
+(E) $x y$
+
+20
+
+The value of the integral $\int_{0}^{\frac{\pi}{2}} \log \tan \theta d \theta$ is
+(A) 0
+(B) 1
+(C) $\frac{\pi}{2}$
+(D) $\log 2$
+(E) 2
+
+21
+
+Let $\Delta=\left|\begin{array}{ccc}1 & 1 & 1 \\ 1 & -1-w^{2} & w^{2} \\ 1 & w & w^{4}\end{array}\right|$, where $w \neq 1$ is a complex number such that $w^{3}=1$.
+
+Then $\Delta$ equals
+(A) $3 w+w^{2}$
+(B) $3 w^{2}$
+(C) $3\left(w-w^{2}\right)$
+(D) $-3 w^{2}$
+(E) $3 w^{2}+1$
+
+22
+
+If $\left|\begin{array}{rrr}3 i & -9 i & 1 \\ 2 & 9 i & -1 \\ 10 & 9 & i\end{array}\right|=x+i y$, then
+(A) $x=1, y=1$
+(B) $x=0, y=1$
+(C) $x=1, y=0$
+(D) $x=0, y=0$
+
+(E) $x=-1, y=0$
+
+23
+
+The number of $3 \times 3$ matrices with entries -1 or +1 is
+(A) $2^{4}$
+(B) $2^{5}$
+(C) $2^{6}$
+(D) $2^{7}$
+(E) $2^{9}$
+
+24
+
+Let $S$ be the set of all $2 \times 2$ symmetric matrices whose entries are either zero or one. A matrix $\mathrm{X}$ is chosen from $\mathrm{S}$. The probability that the determinant of $\mathrm{X}$ is not zero is
+(A) $\frac{1}{3}$
+(B) $\frac{1}{2}$
+(C) $\frac{3}{4}$
+(D) $\frac{1}{4}$
+(E) $\frac{2}{9}$
+
+25
+
+The order of the differential equation $\left(\frac{d^{3} y}{d x^{3}}\right)^{2}+\left(\frac{d^{2} y}{d x}\right)^{2}+\left(\frac{d y}{d x}\right)^{5}=0$ is
+(A) 3
+(B) 4
+(C) 1
+(D) 5
+(E) 6
+
+26
+
+For all real numbers $x$ and $y$, it is known that the real valued function $f$ satisfies $f(x)+f(y)=f(x+y)$. If $f(1)=7$, then $\sum_{r=1}^{100} f(r)$ is equal to
+(A) $7 \times 51 \times 102$
+(B) $6 \times 50 \times 102$
+(C) $7 \times 50 \times 102$
+(D) $6 \times 25 \times 102$
+(E) $7 \times 50 \times 101$
+
+27
+
+If $f(x)=\left|\begin{array}{ccc}x & x^{2} & x^{3} \\ 1 & 2 x & 3 x^{2} \\ 0 & 2 & 6 x\end{array}\right|$, then $f^{\prime}(x)$ is equal to
+(A) $x^{3}+6 x^{2}$
+(B) $6 x^{3}$
+(C) $3 x$
+(D) $6 x^{2}$
+(E) 0
+
+28
+
+The equations $\lambda x-y=2,2 x-3 y=-\lambda$ and $3 x-2 y=-1$ are consistent for
+(A) $\lambda=-4$
+(B) $\lambda=1,4$
+(C) $\lambda=1,-4$
+(D) $\lambda=-1,4$
+(E) $\lambda=-1$
+
+29
+
+The area of the parallelogram with vertices $(0,0),(7,2)(5,9)$ and $(12,11)$ is
+(A) 50
+(B) 54
+(C) 51
+(D) 52
+(E) 53
+
+30
+
+If $\left[\begin{array}{lll}1 & x & 1\end{array}\right]\left[\begin{array}{ccc}1 & 3 & 2 \\ 2 & 5 & 1 \\ 15 & 3 & 2\end{array}\right]\left[\begin{array}{l}1 \\ 2 \\ x\end{array}\right]=0$, then $x$ can be
+(A) -2
+(B) 2
+(C) 14
+(D) -14
+(E) 0
+
+31
+
+If $\Delta(x)=\left|\begin{array}{ccc}1 & \cos x & 1-\cos x \\ 1+\sin x & \cos x & 1+\sin x-\cos x \\ \sin x & \sin x & 1\end{array}\right|$, then $\int_{0}^{\pi / 2} \Delta(x) d x=$
+(A) $\frac{-1}{2}$
+(B) $\frac{1}{2}$
+(C) 1
+(D) -1
+(E) 0
+
+32
+
+If $A=\left(\begin{array}{lll}0 & 1 & 2 \\ 1 & 2 & 3 \\ 3 & 1 & 1\end{array}\right)$, then the sum of all the diagonal entries of $A^{-1}$ is
+(A) 2
+(B) 3
+(C) -3
+(D) -4
+(E) 4
+
+33
+
+If $x=A \cos 4 t+B \sin 4 t$, then $\frac{d^{2} x}{d t^{2}}=$
+(A) $x$
+(B) $-16 x$
+(C) $15 x$
+(D) $16 x$
+(E) $-15 x$
+
+34
+
+
+$\int \frac{(\sin x+\cos x)(2-\sin 2 x)}{\sin ^{2} 2 x} d x=$
+(A) $\frac{\sin x+\cos x}{\sin 2 x}+c$
+(B) $\frac{\sin x-\cos x}{\sin 2 x}+c$
+(C) $\frac{\sin x}{\sin x+\cos x}+c$
+(D) $\frac{\sin x}{\sin x-\cos x}+c$
+(E) $\frac{\sin x-\cos x}{\sin x+\cos x}+c$
+
+35
+
+$\int_{\pi / 4}^{3 \pi / 4} \frac{x}{1+\sin x} d x=$
+(A) $\pi(\sqrt{2}-1)$
+(B) $\pi(\sqrt{2}+1)$
+(C) $2 \pi(\sqrt{2}-1)$
+(D) $2 \pi(\sqrt{2}+1)$
+(E) $\frac{\pi}{\sqrt{2}+1}$
+
+36
+
+If $|\vec{a}|=13,|\vec{b}|=5$ and $\vec{a} \cdot \vec{b}=30$, then $|\vec{a} \times \vec{b}|$ is equal to
+(A) 30
+(B) $\frac{30}{25} \sqrt{233}$
+(C) $\frac{30}{33} \sqrt{193}$
+(D) $\frac{65}{23} \sqrt{493}$
+(E) $\frac{65}{13} \sqrt{133}$
+
+37
+
+Let $f$ and $g$ be differentiable functions such that $f(3)=5, g(3)=7$, $f^{\prime}(3)=13, g^{\prime}(3)=6, f^{\prime}(7)=2$ and $g^{\prime}(7)=0$. If $h(x)=(f \circ g)(x)$, then $h^{\prime}(3)=$
+(A) 14
+(B) 12
+(C) 16
+(D) 0
+(E) 10
+
+38
+
+If a circular plate is heated uniformly, its area expands $3 c$ times as fast as its radius, then the value of $c$ when the radius is 6 units, is
+(A) $4 \pi$
+(B) $2 \pi$
+(C) $6 \pi$
+(D) $3 \pi$
+(E) $8 \pi$

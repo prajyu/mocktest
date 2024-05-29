@@ -1,0 +1,350 @@
+Q1 What is the major product in the following reaction? 
+
+             CH3-CH2-CH2-CH=CH2+HBr?
+
+a) CH3-CH2-CH2-CH2-CH2-Br
+
+b)CH3-CH2-CH2-CH(Br)-CH3
+
+c)CH3-CH2-CH2-CH(Br)2-CH3
+
+d)CH3-CH2-CH2-CH(Br)-CH2-Br
+
+2. In the photo-electron emission, the energy of the emitted electron is
+
+A. Greater than the incident photon
+
+B. Same as than of the incident photon
+
+C. Smaller than incident photon 
+
+D. Proportional to the intensity of incident photon
+
+
+3.The equilibrium constant for the reaction, N2(g)+3H2 ? 2NH3(g) and 2N2(g)+6H2?4NH3(g) are K1 and K2 respectively. The relation between K1 and K2 is
+
+a) K2 = K1²
+ 
+b) K1 = K2²
+
+c) K2 = vK1
+
+d) K1 = vK2
+
+4.The compound that does not undergo hydrolysis by SN1 mechanism is
+
+(a) C6H5CH2Cl
+
+(b) C6H5CH(CH3)Cl
+
+(c) C6H5Cl
+
+(d) CH3CH2Cl
+
+5. The Henry's law constant for O2 dissolved in water is 4.34 x 104 atm at certain temperature. If the partial pressure of O2 in a gas mixture that is in equilibrium with water is 0.434 atm, what is the mole fraction of O2 in the solution?
+
+a) 1 x 10^-5
+
+b) 1 x 10^-4
+
+c) 2 x 10^-5
+
+d) 1 x 10^-6
+
+Q6. Match the following complexes (P) with the geometry (Q)
+
+
+
+
+a)  a)-(ii);b)-(iii);c)-(i);d)-(iv);e)-(v)
+
+b)  a)-(iii);b)-(v);c)-(iv);d)-(ii);e)-(i)
+
+c)  a)-(iv);b)-(iii);c)-(v);d)-(i);e)-(ii)
+
+d)  a)-(v);b)-(iv);c)-(ii);d)-(iii);e)-(i)
+
+
+Q7. Among the following which one is a non-reducing sugar?
+
+a) Lactose
+b) Glucose
+c) Sucrose
+d) Maltose
+
+
+Q8 If T is the surface tension of the soap solution, the amount of work done in blowing a soap bubble from diameter D to a diameter 2D is
+
+a) 2pD²T
+b) 4pD²T
+c) 6pD²T
+d) 8pD²T
+
+
+ Q9 The complex, [Pt(Py) (NH?????3?)BrCl] will have how many geometrical isomers?
+
+A. 3
+B. 4
+C. 0
+D. 2
+
+
+Q10 The total number of possible isomers for the complex compound [Cu?????(NH????3)4] [Pt???Cl?????4] 
+
+A. 3
+
+B. 2
+
+C. 1
+
+D. 4
+
+
+ Q11. Which one of the following polymer is a copolymer formed by condensation polymerisation?
+
+(A) Buna-S
+
+(B) Neoprene
+
+(C) Polythene
+
+(D) Melamine-formaldehyde
+ 
+(E) Buna-N
+
+
+Q12. Which one of the following sets forms the biodegradable polymer?
+
+(A) 3-Hydroxybutanoic acid and 3-hydroxypentanoic acid.
+
+(B) Acrylonitrile and 1,3-butadiene.
+
+(C) Urea and formaldehyde.
+
+(D) Ethylene glycol and terephthalic acid.
+
+(E) Adipic acid and hexamethylene diamine.
+
+
+
+
+
+Q13.The antimicrobial drug that contains arsenic is
+
+(A) Prontosil
+
+(B) Salvarsan
+
+(C) Sulphapyridine
+
+(D) Ofloxacin
+
+(E) Sulphanilamide
+
+
+Q14.Which one of the following statements is not correct?
+
+(A) All monosaccharides are reducing sugars.
+
+(B) Lactose is commonly known as milk sugar.
+
+(C) Glucose pentaacetate does not react with hydroxylamine.
+
+(D) Glucose does not give 2,4- DNP test.
+
+(E) Glucose on oxidation with bromine water, gives saccharic acid.
+
+
+Q15.Which one of the following is an antifertility drug?
+
+(A) Bithionol
+
+(B) Aspartame
+
+(C) Ofloxacin
+
+(D) Norethindrone
+
+(E) Terpineol
+
+
+
+Q16 Which one of the following is a greenhouse gas?
+
+(A) Methane
+
+(B) Acetylene
+
+(C) Ethane
+
+(D) Ethylene
+
+(E) Hydrogen sulphide
+
+
+
+Q17. Which one of the following is not an isomer of 3-methylbut-1-yne?
+
+(A) 2,3-Dimethylbuta-1,3-diene
+
+(B) Penta-1,3-diene
+
+(C) Pent-1-yne
+
+(D) 2-Methylbuta-1,3-diene
+
+(E) Pent-2-yne
+
+
+
+Q18.How many s and p bond are there in pent-3-ene-1-yne
+
+A)10s, 3p
+
+B)8s, 10p
+
+C)3s, 10p
+
+D)9s, 5p
+
+
+Q19.Which one of the following is a secondary alcohol?
+
+(A) 2-methylbutan-2-ol
+
+(B) 3-methylbutan-2-ol
+
+(C) 3-methylbutan-1-ol
+
+(D) 2-methylbutan-1-ol
+
+(E) 2,2-dimethylbutan-1-ol
+
+
+Q20.An organic compound 'A' with molecular formula C7H6O forms 2,4-DNP derivative and reduces Tollens' reagent. When 'A' is heated with conc. KOH, it gives sodium benzoate and compound 'B'. The compound 'B' is
+
+(A) Benzene
+
+(B) Benzaldehyde
+
+(C) Toluene
+
+(D) Benzyl alcohol
+
+(E) Acetophenone
+
+
+ Q21 Adsorption is accompanied by
+
+(A) decrease in enthalpy and decrease in entropy
+(B) increase in enthalpy and decrease in entropy
+(C) decrease in enthalpy and increase in entropy
+(D) increase in enthalpy and increase in entropy
+(E) no change in enthalpy and entropy
+
+
+Q22 In the coagulation of a positive sol, the flocculating power of the ions PO4³, SO4² and CI decreases in the order 
+
+(A) PO4> CI> SO4²
+
+(B) PO4>SO4>Cl
+
+(C) CI> SO4> PO4³
+
+(D) SO4>PO4> Cl
+
+(E) CI>PO4³> SO4²-
+
+
+Q23 Which one of the following nitrates does not give the corresponding metallic oxide,
+nitrogen dioxide and oxygen on heating?
+
+(A) Lithium nitrate
+(B) Beryllium nitrate
+(C) Magnesium nitrate
+(D) Calcium nitrate
+(E) Potassium nitrate
+             
+Q24. 3g urea is dissolved in 45 of water. The relative lowering of vapour pressure ????
+ 
+    A)0.05 
+ B)0.04  
+ C)0.02 
+ D)0.01  
+ E)0.1
+
+
+Q25 Which of the following halogens always show only one oxidation state?
+A) Cl  
+      B) Br  
+      C) I 
+      D) F 
+      E) O
+
+
+Q26 Which of the following is not a Lewis base?
+
+   A)CH4
+   B)C2H5OH
+   C)Acetone 
+   D)Sec amine  
+   E)None
+
+Q27 Methanol and ethanol can be distinguished by 
+
+A)Iodo form test
+B)Schiff's reagent
+C)KMnO/OH-
+D)K2Cr2O1/H+
+E)Borsches reagent 
+
+
+
+Q28 The ease of esterification of alcohols
+
+A)3°>2°>1°  
+B)2°>3°>1°
+C)1°>2°>3°
+D)1°>3°>2°
+E)3°>1°>2°
+
+
+Q29 Bell metal is an alloy of 
+
+ A)Cu & Sn 
+ B)Cu & Zn
+ C)Cu & Al 
+ D)Cu, Zn & Sn  
+ E)Cu & Ni
+
+
+
+
+
+Q30 Carbon monoxide reduction process us used for the extraction of
+ A)Cu 
+ B)Ag 
+ C)Sn 
+ D)Fe 
+ E)Au
+
+Q31  The number of molecules present in a drop of water weighing 0.06g is approximately 
+  A)10²¹ 
+  B)2×10²¹
+  C)3×10²¹  
+  D)4×10²¹ 
+  E)3.5×10²°
+
+Q32 The correct order of mobility of the alkali metal ions in aqueous solution is 
+A)K+ >Na+ > Li+ >Rb+
+B)Li+ > Na+ > K+ > Rb+
+C)Na+ > K+ > Rb+ >Li+
+D)K+ >Rb+ >Na+ >Li+
+E)Rb+ >K+ >Na+ >Li+
+
+Q33 How many position isomers are possible for dichlorobenzene
+ A)2
+ B)3
+ C)4  
+ D)5
+ E)1              
